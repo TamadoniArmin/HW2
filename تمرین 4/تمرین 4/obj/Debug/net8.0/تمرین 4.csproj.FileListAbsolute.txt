@@ -1,0 +1,14 @@
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\bin\Debug\net8.0\تمرین 4.exe
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\bin\Debug\net8.0\تمرین 4.deps.json
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\bin\Debug\net8.0\تمرین 4.runtimeconfig.json
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\bin\Debug\net8.0\تمرین 4.dll
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\bin\Debug\net8.0\تمرین 4.pdb
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\obj\Debug\net8.0\تمرین 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\obj\Debug\net8.0\تمرین 4.AssemblyInfoInputs.cache
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\obj\Debug\net8.0\تمرین 4.AssemblyInfo.cs
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\obj\Debug\net8.0\تمرین 4.csproj.CoreCompileInputs.cache
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\obj\Debug\net8.0\تمرین 4.dll
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\obj\Debug\net8.0\refint\تمرین 4.dll
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\obj\Debug\net8.0\تمرین 4.pdb
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\obj\Debug\net8.0\تمرین 4.genruntimeconfig.cache
+C:\Users\Tamadoni\OneDrive\Desktop\برنامه نویسی\تکالیف\HW- week 2\تمرین 4\تمرین 4\obj\Debug\net8.0\ref\تمرین 4.dll
